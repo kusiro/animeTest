@@ -17,3 +17,6 @@ Run `webpack-dev-server` to develop with livereload.
 ## Build
 
 Run `webpack` to build the project.
+=======
+# animeTest
+Anime effect test
