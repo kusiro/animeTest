@@ -12,11 +12,10 @@ $ webpack -v
 ## Develope
 
 Run `npm i` to install depedencies for this project.<br>
-Run `webpack-dev-server` to develop with livereload.
+Run `npm run dev` to develop with livereload.
 
 ## Build
-
-Run `webpack` to build the project.
+Run `npm run build` to build
 =======
 # animeTest
 Anime effect test
